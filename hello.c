@@ -2,7 +2,7 @@
  * Author: Artiom Dolghi
  * Date: 2018/21/08
  *
- * A program that displays name and major
+ * A program that displays name and major in C
  *
  */
 #include<stdlib.h>
